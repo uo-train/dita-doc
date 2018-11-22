@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_qks_ng5_wfb">
+    <title>Push to the repository</title>
+    <shortdesc>Pushing content to the server</shortdesc>
+    <conbody>
+        <p>
+            <ol id="ol_l1v_vg5_wfb">
+                <li>Once you have committed your changes, you can push them to the server. Click on
+                    Push. <image href="../images/pushtotherepository1.png" id="image_p3y_vh5_wfb"
+                    /></li>
+                <li>When the new window opens, click on Push on the bottom right. If the Push fails
+                    - has errors, it's because someone else has pushed files while you were working
+                    on the document. Pull, and then Push again. (See <i>Pull</i> for
+                            instructions.)<p><image href="../images/pushtotherepository2.png"
+                            id="image_qmv_wh5_wfb"/></p></li>
+            </ol>
+        </p>
+    </conbody>
+</concept>
