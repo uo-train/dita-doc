@@ -3,4 +3,5 @@
 <map xml:lang="en-CA">
     <title>Using DITA at HR</title>
     <topicref href="concepts/intro.dita"/>
+    <topicref href="concepts/cloning_a_repository.dita"/>
 </map>
