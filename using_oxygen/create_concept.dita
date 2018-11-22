@@ -7,6 +7,7 @@
         <p>To create a concept:<ol>
                 <li>Select File, then New, click on New icon or CTRL+N</li>
                 <li>Scroll down to Framework Templates</li>
+                <li>If you have already created a topic it will appear in 'recently used'</li>
                 <li>Click on DITA then Topic and select <i>Concept</i></li>
             </ol></p>
         <p>Set a title and a short description.</p>
