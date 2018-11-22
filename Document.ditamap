@@ -2,4 +2,5 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map xml:lang="en-CA">
     <title>Using DITA at HR</title>
+    <topicref href="concepts/intro.dita"/>
 </map>
