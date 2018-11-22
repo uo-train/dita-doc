@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ngl_jb5_wfb">
+    <title><b>Cloning a repository</b></title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>Here are the steps:<ol id="ol_akv_pb5_wfb">
+                <li>Click on the remote tab</li>
+                <li>Click Refresh if you do not see your Repo</li>
+                <li>Once your repo is appearing click on Clone (on the right of your repo)<image
+                        href="../images/cloningrepo1.png" id="image_y53_2d5_wfb"/>ol</li>
+                <li>Click on Clone<image href="../images/cloningstep2.png" id="image_k4s_fd5_wfb"
+                    /></li>
+                <li>Your repo is now cloned.</li>
+            </ol></p>
+    </conbody>
+</concept>
