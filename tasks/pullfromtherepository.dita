@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_hnn_2h5_wfb">
+    <title><b>Pull from the repository</b></title>
+    <shortdesc>How to pull from the repository</shortdesc>
+    <taskbody>
+        <context>
+            <p>Here are the steps:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click on the Pull button<image href="../images/pullfromtherepository1.png"
+                        id="image_f2c_yh5_wfb"/></cmd>
+            </step>
+            <step>
+                <cmd>Click on OK<image href="../images/pullfromtherepository2.png"
+                        id="image_nlh_135_wfb"/></cmd>
+            </step>
+            <step>
+                <cmd>You have now pulled</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
