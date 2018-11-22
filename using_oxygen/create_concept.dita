@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_cx1_vyt_wfb">
-    <title>create a concept</title>
-    <shortdesc></shortdesc>
+    <title>Create a concept</title>
+    <shortdesc>Create a DITA Concept with oXygen XML</shortdesc>
     <conbody>
-        <p>Create DITA concept</p>
-        <p>new concept<dl>
-                <dlentry>
-                    <dt>this is the definition of a concept</dt>
-                    <dd>concept is defined as …</dd>
-                </dlentry>
-            </dl></p>
-        <p>Add an image<image id="image_iqj_415_wfb"/></p>
-        <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
-        <image href="create_concept.png" id="image_sy3_q15_wfb"/><?oxy_custom_end?>
+        <p>To create a concept:<ol>
+                <li>Select File, then New, click on New icon or CTRL+N</li>
+                <li>Scroll down to Framework Templates</li>
+                <li>If you have already created a topic it will appear in 'recently used'</li>
+                <li>Click on DITA then Topic and select <i>Concept</i></li>
+            </ol></p>
+        <p>Set a title and a short description.</p>
     </conbody>
 </concept>
