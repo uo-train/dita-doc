@@ -10,6 +10,6 @@
                 <li>If you have already created a topic it will appear in 'recently used'</li>
                 <li>Click on DITA then Topic and select <i>Concept</i></li>
             </ol></p>
-        <p>Set a title and a short description.</p>
+        <p>Set a title and a short description. When you commit you should always add a comment.</p>
     </conbody>
 </concept>
