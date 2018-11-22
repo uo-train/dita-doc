@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ink_3zt_wfb">
+    <title>Adding an image</title>
+    <shortdesc>Adding an image to DITA document using oXygen XML.</shortdesc>
+    <conbody>
+        <p>To insert an image:<ol>
+                <li>press Enter and select <i>image (wizard)</i> and add a URL.</li>
+                <li>Click on <i>Insert a reference to an image</i> icon in the task bar and add a
+                    URL.</li>
+            </ol></p>
+        <p>Example:</p>
+        <p>
+            <fig id="fig_ks2_pb5_wfb">
+                <title>oXygen logo</title>
+                <image
+                    href="../../../../../Program%20Files/Oxygen%20XML%20Editor%2020/Oxygen128.png"
+                    id="image_ls2_pb5_wfb">
+                    <alt>Logo for the oXygen application</alt>
+                </image>
+            </fig>
+        </p>
+        <p>Note that accessible documents require <i>Figure title</i> and <i>Alternate text</i>. You
+            can add a title by right clicking on the image and selecting <i>Edit attributes</i>.</p>
+    </conbody>
+</concept>
