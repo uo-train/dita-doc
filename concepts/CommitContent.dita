@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_rw1_kb5_wfb">
+    <title><b>Commit content</b></title>
+    <shortdesc>How to commit content in DITA</shortdesc>
+    <conbody>
+        <p>Once you have edited your content, you can commit your content:</p>
+        <p>
+            <ol id="ol_zqn_pd5_wfb">
+                <li>Save your XML file.  </li>
+                <li>switch to SourceTree.  The files should show up in <i>Unstaged files</i><fig
+                        id="fig_cmn_dg5_wfb">
+                        <title>Image 1</title>
+                        <image href="../images/commitcontent1.png" id="image_dmn_dg5_wfb">
+                            <alt>Commit Content 1</alt>
+                        </image>
+                    </fig></li>
+                <li>Stage all <i>Unstaged files</i> (or desired files). They will move to the Staged
+                    files area.</li>
+                <li>Add a comment indicating what changes you have made. <fig id="fig_qv1_gg5_wfb">
+                        <title>Image 2</title>
+                        <image href="../images/commitcontent2.png" id="image_rv1_gg5_wfb"/>
+                    </fig></li>
+                <li>Click on <i>Commit</i>.<image href="../images/commitcontent3.png"
+                        id="image_vvd_3g5_wfb"/></li>
+            </ol>
+        </p>
+    </conbody>
+</concept>
