@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_cx1_vyt_wfb">
+    <title>create a concept</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>Create DITA concept</p>
+        <p>new concept<dl>
+                <dlentry>
+                    <dt>this is the definition of a concept</dt>
+                    <dd>concept is defined as …<b>many things added</b></dd>
+                </dlentry>
+            </dl></p>
+        <p>Add an image<image id="image_iqj_415_wfb"/></p>
+        <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+        <image href="create_concept.png" id="image_sy3_q15_wfb"/><?oxy_custom_end?>
+    </conbody>
+</concept>
